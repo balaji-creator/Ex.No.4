@@ -44,7 +44,15 @@ Prompt Size Limitations:
 → Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
+#output
+<img width="882" height="758" alt="Screenshot 2025-10-22 203444" src="https://github.com/user-attachments/assets/e765866c-4133-4106-9617-ff9b4d61ec47" />
+<img width="988" height="235" alt="Screenshot 2025-10-22 203503" src="https://github.com/user-attachments/assets/020b1f3c-55f5-4acf-9d93-8ff768a5b24c" />
+<img width="941" height="311" alt="Screenshot 2025-10-22 203513" src="https://github.com/user-attachments/assets/0c67362d-3810-4fac-8ba5-c9628331f3a2" />
+<img width="980" height="427" alt="Screenshot 2025-10-22 203521" src="https://github.com/user-attachments/assets/e8e498b3-1c7c-46d3-bf0f-42cb8f44aaa0" />
+<img width="1032" height="248" alt="Screenshot 2025-10-22 203527" src="https://github.com/user-attachments/assets/df15ac14-8823-4462-b7af-6bcdabee8051" />
+<img width="930" height="392" alt="Screenshot 2025-10-22 203542" src="https://github.com/user-attachments/assets/eae9ee74-eb8f-46b2-93e5-4b959330dba2" />
 
+<img width="1083" height="305" alt="Screenshot 2025-10-22 203620" src="https://github.com/user-attachments/assets/7a6d8671-6f1e-4ed3-88e2-782274d15900" />
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
