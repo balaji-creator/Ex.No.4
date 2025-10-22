@@ -44,6 +44,14 @@ Prompt Size Limitations:
 → Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
+<img width="882" height="758" alt="Screenshot 2025-10-22 203444" src="https://github.com/user-attachments/assets/37275a96-e5ae-40ed-925a-bc53382ad481" />
+<img width="988" height="235" alt="Screenshot 2025-10-22 203503" src="https://github.com/user-attachments/assets/d4d97a39-741e-4a04-8f06-ab95a25c7e5a" />
+<img width="941" height="311" alt="Screenshot 2025-10-22 203513" src="https://github.com/user-attachments/assets/b84e13af-e023-47b2-ae7a-3fe44a555904" />
+<img width="980" height="427" alt="Screenshot 2025-10-22 203521" src="https://github.com/user-attachments/assets/21c24681-0e54-4be0-be04-10f08be66753" />
+<img width="1032" height="248" alt="Screenshot 2025-10-22 203527" src="https://github.com/user-attachments/assets/dcf937cb-d121-4aa4-a85b-817277097bf1" />
+<img width="930" height="392" alt="Screenshot 2025-10-22 203542" src="https://github.com/user-attachments/assets/be89339e-3986-4d5f-9fde-09be25e78017" />
+<img width="535" height="363" alt="Screenshot 2025-10-22 204741" src="https://github.com/user-attachments/assets/252e2661-0ff9-4899-a116-c51af67928a6" />
+<img width="1083" height="305" alt="Screenshot 2025-10-22 203620" src="https://github.com/user-attachments/assets/d44d3885-2702-47ff-aa97-8625f965cf14" />
 
 
 
