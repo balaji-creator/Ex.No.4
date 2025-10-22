@@ -46,7 +46,15 @@ Prompt Size Limitations:
 → Adjust for size: “Give me 10 AI applications at a time.”
 
 ###output
+<img width="882" height="758" alt="Screenshot 2025-10-22 203444" src="https://github.com/user-attachments/assets/cff31c99-6d32-43d6-bc0b-df682928e78e" />
+<img width="988" height="235" alt="Screenshot 2025-10-22 203503" src="https://github.com/user-attachments/assets/de5b2525-60ca-4dad-9107-7654a4c72713" />
+<img width="941" height="311" alt="Screenshot 2025-10-22 203513" src="https://github.com/user-attachments/assets/fbbb44f0-fda0-468e-91f4-40a0204ee49e" />
+<img width="980" height="427" alt="Screenshot 2025-10-22 203521" src="https://github.com/user-attachments/assets/c4329e91-8fc2-4482-90bf-cfd9c48335c7" />
+<img width="1032" height="248" alt="Screenshot 2025-10-22 203527" src="https://github.com/user-attachments/assets/756f8431-8ff4-486f-bf31-8071f0e9f334" />
+<img width="930" height="392" alt="Screenshot 2025-10-22 203542" src="https://github.com/user-attachments/assets/989b37c8-fdef-499d-92bf-82b82324d833" />
+<img width="535" height="363" alt="Screenshot 2025-10-22 204741" src="https://github.com/user-attachments/assets/25207d06-273b-458e-9d27-29016ebf7519" />
 
+<img width="1083" height="305" alt="Screenshot 2025-10-22 203620" src="https://github.com/user-attachments/assets/b94abb2a-cc2f-432f-bdb2-7f7d18a5f5d2" />
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
