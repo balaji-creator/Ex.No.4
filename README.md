@@ -46,15 +46,6 @@ Prompt Size Limitations:
 → Adjust for size: “Give me 10 AI applications at a time.”
 
 ###output
-<img width="948" height="667" alt="Screenshot 2025-10-22 191336" src="https://github.com/user-attachments/assets/9aee6608-6403-4a3e-979c-02599d1cd7bc" />
-<img width="1016" height="630" alt="Screenshot 2025-10-22 191359" src="https://github.com/user-attachments/assets/d9269c18-078a-4ed2-b052-ccdd4ee08bba" />
-<img width="1114" height="667" alt="Screenshot 2025-10-22 191416" src="https://github.com/user-attachments/assets/0909cad5-6ab1-413b-a921-1ba12734e431" />
-<img width="962" height="107" alt="Screenshot 2025-10-22 191429" src="https://github.com/user-attachments/assets/aa1a34b6-1903-48c9-bad6-007f32eb7e63" />
-<img width="1074" height="272" alt="Screenshot 2025-10-22 191435" src="https://github.com/user-attachments/assets/5f7d58aa-8134-41a5-8ad7-99444da38d6d" />
-<img width="1077" height="283" alt="Screenshot 2025-10-22 191440" src="https://github.com/user-attachments/assets/e193ca73-de37-4427-8848-1e9243eb6960" />
-<img width="1129" height="550" alt="Screenshot 2025-10-22 191518" src="https://github.com/user-attachments/assets/eb9818c5-4cd0-437c-80e5-0e54068c48f8" />
-
-<img width="812" height="339" alt="Screenshot 2025-10-22 191507" src="https://github.com/user-attachments/assets/3f8dffd6-0520-461c-9a4b-b267ac3f8287" />
 
 
 
